@@ -16,4 +16,4 @@ if(numeroUser > numeroCpu){
 }
 
 
-console.log(text);
+alert(text);
